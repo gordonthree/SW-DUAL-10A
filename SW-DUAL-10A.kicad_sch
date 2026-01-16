@@ -3670,7 +3670,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Package_SO:Infineon_PG-TSDSO-14-22"
+		(property "Footprint" "SamacSys_Parts:SOP65P600X115-15N"
 			(at 114.3 74.93 0)
 			(effects
 				(font
@@ -4701,10 +4701,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "a7b935e4-aeec-4e0f-8dbe-2a4f8ff0a8cd")
+			(uuid "a7b935e4-aeec-4e0f-8dbe-2a4f8ff0a8ce")
 		)
 		(pin "1"
-			(uuid "ea01a9ee-780d-4d6d-a670-9042eec28a46")
+			(uuid "ea01a9ee-780d-4d6d-a670-9042eec28a47")
 		)
 		(instances
 			(project ""
